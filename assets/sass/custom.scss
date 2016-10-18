@@ -1,0 +1,91 @@
+$relish: #8ee000;
+$mustard: #ffc715;
+$ketchup: #e53838;
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.topbar {
+    margin-top: 50px;
+}
+
+.clouds {
+    height: 150px;
+}
+
+.main {
+    padding: 3rem 0 1rem 0;
+}
+
+.wrap {
+    width: 75%;
+}
+
+.skill-icon {
+    margin: 0 0 3rem -1rem
+}
+
+.text-input-example {
+    width: 75%;
+}
+
+h2.heading {
+    margin-bottom: 2rem;
+}
+
+button.btn-primary.checkAnagram,
+button.btn-secondary.reset {
+    width: 75%;
+}
+
+button {
+    margin-bottom: 0;
+}
+
+.ribbon {
+    margin-top: 1.5rem;
+    text-align: left;
+    padding: 1.3rem 4rem 2rem 2rem;
+    height: 130px;
+}
+
+p.more-result {
+    max-width: 250px;
+    margin-top: .25rem;
+}
+
+span.result {
+    font-size: larger;
+}
+
+.button-row {
+    margin-top: 1.5rem;
+}
+
+.result-section {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+
+/*** bootstrap **/
+
+code {
+    color: $ketchup;
+}
+
+.shift-left {
+    padding-left: 0;
+}
+
+
+/** results */
+
+.results {
+    display: none;
+}
+
+.error {
+    background-color: $ketchup;
+}
