@@ -1,8 +1,12 @@
 $(document).ready(function() {
+    // clean up string
+    var cleanString = function(str) {
+        return str.toLowerCase().replace(/[^a-z\d]/g, '').split('').sort().join('');
+    };
 
     // using built in JS methods to determine strings are anagrams of each other
     var checkAnagram = function(str1, str2) {
-        return str1.split("").sort().join("") === str2.split("").sort().join("");
+        return cleanString(str1) === cleanString(str2);
     };
 
     // user checks for anagrams
