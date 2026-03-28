@@ -1,6 +1,6 @@
 # Duo Anagram
 
-> Check this out at [`fvcproductions.github.io/anagram`](http://fvcproductions.github.io/anagram)
+> Check this out at [`francescoronel.github.io/anagram`](http://francescoronel.github.io/anagram)
 
 ![showcase](assets/img/showcase.png)
 
@@ -16,26 +16,26 @@ Create a web page that lets a user input two strings and then tells the user whe
 
 > To get started...
 
-- 🍴 Fork this repo [here](https://github.com/fvcproductions/anagram#fork-destination-box)
+- 🍴 Fork this repo [here](https://github.com/FrancesCoronel/anagram#fork-destination-box)
 - 🔨 Hack away
 - 😊 Add yourself as a contributor
-- 🔧 Make a pull request [here](https://github.com/fvcproductions/anagram/compare)
+- 🔧 Make a pull request [here](https://github.com/FrancesCoronel/anagram/compare)
 
 > Or just create an issue - any little bit of help counts! 😊
 
-- 😯 Create an issue [here](https://github.com/fvcproductions/anagram/issues)!
+- 😯 Create an issue [here](https://github.com/FrancesCoronel/anagram/issues)!
 
 ## Credits
 
-[![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) |
+[![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://francescoronel.com) |
 :---:|
-[`fvcproductions`](http://fvcproductions.com) |
+[`fvcproductions`](http://francescoronel.com) |
 
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-2016 © [FVCproductions](http://fvcproductions.com)
+2016 © [FVCproductions](http://francescoronel.com)
 
 ## Donations
 
